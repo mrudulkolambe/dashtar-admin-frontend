@@ -9,7 +9,7 @@ import {
 } from '@react-pdf/renderer';
 import dayjs from 'dayjs';
 
-import logoLight from '../../assets/img/logo/logo-dark.png';
+import logoLight from '../../assets/img/logo/fruitflix-logo.png';
 
 Font.register({
   family: 'Open Sans',

@@ -10,6 +10,7 @@ import EditDeleteButton from '../table/EditDeleteButton';
 import SelectOrder from '../form/SelectOrder';
 
 const StaffTable = ({ staffs, orders }) => {
+  console.log(staffs);
   const { serviceId, handleModalOpen, handleUpdate } = useToggleDrawer();
   return (
     <>

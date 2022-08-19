@@ -52,7 +52,7 @@ const ProductTable = ({ products }) => {
             </TableCell>
 
             <TableCell>
-              <span className="text-sm font-semibold">${product.price}</span>
+              <span className="text-sm font-semibold">₹ {product.price}</span>
             </TableCell>
 
             <TableCell>

@@ -6724,7 +6724,7 @@ const orders = [
         quantity: 5,
         type: 'Grocery',
         description:
-          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrators. ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
+          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrato₹ ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
         __v: 0,
         createdAt: '2021-09-29T10:06:02.241Z',
         updatedAt: '2021-09-29T10:06:02.241Z',
@@ -6745,7 +6745,7 @@ const orders = [
         quantity: 3,
         type: 'Grocery',
         description:
-          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrators. ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
+          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrato₹ ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
         __v: 0,
         createdAt: '2021-09-29T10:06:02.241Z',
         updatedAt: '2021-09-29T10:06:02.241Z',
@@ -7914,7 +7914,7 @@ const orders = [
         quantity: 1,
         type: 'Grocery',
         description:
-          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrators. ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
+          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrato₹ ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
         __v: 0,
         createdAt: '2021-10-01T13:11:19.852Z',
         updatedAt: '2021-10-01T13:11:19.852Z',
@@ -7935,7 +7935,7 @@ const orders = [
         quantity: 1,
         type: 'Grocery',
         description:
-          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrators. ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
+          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrato₹ ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
         __v: 0,
         createdAt: '2021-10-01T13:11:19.852Z',
         updatedAt: '2021-10-01T13:11:19.852Z',
@@ -7956,7 +7956,7 @@ const orders = [
         quantity: 4,
         type: 'Grocery',
         description:
-          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrators. ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
+          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrato₹ ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
         __v: 0,
         createdAt: '2021-10-01T13:11:19.851Z',
         updatedAt: '2021-10-01T13:11:19.851Z',
@@ -7978,7 +7978,7 @@ const orders = [
         quantity: 3,
         type: 'Grocery',
         description:
-          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrators. ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
+          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrato₹ ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
         __v: 0,
         createdAt: '2021-10-01T13:11:19.851Z',
         updatedAt: '2021-10-01T13:11:19.851Z',
@@ -7999,7 +7999,7 @@ const orders = [
         quantity: 9,
         type: 'Grocery',
         description:
-          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrators. ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
+          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrato₹ ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
         __v: 0,
         createdAt: '2021-10-01T13:11:19.852Z',
         updatedAt: '2021-10-01T13:11:19.852Z',
@@ -8020,7 +8020,7 @@ const orders = [
         quantity: 4,
         type: 'Grocery',
         description:
-          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrators. ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
+          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrato₹ ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
         __v: 0,
         createdAt: '2021-10-01T13:11:19.852Z',
         updatedAt: '2021-10-01T13:11:19.852Z',
@@ -10485,7 +10485,7 @@ const orders = [
         quantity: 1,
         type: 'Grocery',
         description:
-          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrators. ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
+          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrato₹ ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
         __v: 0,
         createdAt: '2021-10-02T08:31:58.839Z',
         updatedAt: '2021-10-02T08:31:58.839Z',
@@ -10506,7 +10506,7 @@ const orders = [
         quantity: 1,
         type: 'Grocery',
         description:
-          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrators. ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
+          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrato₹ ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
         __v: 0,
         createdAt: '2021-10-02T08:31:58.839Z',
         updatedAt: '2021-10-02T08:31:58.839Z',
@@ -16351,7 +16351,7 @@ const orders = [
         quantity: 4,
         type: 'Grocery',
         description:
-          'honey, sweet, viscous liquid food, dark golden in colour, produced in the honey sacs of various bees from the nectar of flowers. Flavour and colour are determined by the flowers from which the nectar is gathered. Some of the most commercially desirable honeys are produced from clover by the domestic honeybee.',
+          'honey, sweet, viscous liquid food, dark golden in colour, produced in the honey sacs of various bees from the nectar of flowe₹ Flavour and colour are determined by the flowers from which the nectar is gathered. Some of the most commercially desirable honeys are produced from clover by the domestic honeybee.',
         __v: 0,
         createdAt: '2021-10-17T21:00:38.736Z',
         updatedAt: '2021-10-17T21:00:38.736Z',
@@ -16372,7 +16372,7 @@ const orders = [
         quantity: 3,
         type: 'Grocery',
         description:
-          'honey, sweet, viscous liquid food, dark golden in colour, produced in the honey sacs of various bees from the nectar of flowers. Flavour and colour are determined by the flowers from which the nectar is gathered. Some of the most commercially desirable honeys are produced from clover by the domestic honeybee.',
+          'honey, sweet, viscous liquid food, dark golden in colour, produced in the honey sacs of various bees from the nectar of flowe₹ Flavour and colour are determined by the flowers from which the nectar is gathered. Some of the most commercially desirable honeys are produced from clover by the domestic honeybee.',
         __v: 0,
         createdAt: '2021-10-17T21:00:38.736Z',
         updatedAt: '2021-10-17T21:00:38.736Z',
@@ -18914,7 +18914,7 @@ const orders = [
     name: 'Александр Бакин',
     address: 'ул. Беклемищева, д. 42, кв. 42',
     contact: '89066267832',
-    email: 'bakinruss7@gmail.com',
+    email: 'bak₹ uss7@gmail.com',
     city: 'Узловая',
     country: 'Россия',
     zipCode: '301600',
@@ -19226,7 +19226,7 @@ const orders = [
         quantity: 1,
         type: 'Grocery',
         description:
-          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrators. ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
+          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrato₹ ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
         __v: 0,
         createdAt: '2021-10-30T16:30:26.854Z',
         updatedAt: '2021-11-09T18:27:20.266Z',
@@ -19247,7 +19247,7 @@ const orders = [
         quantity: 1,
         type: 'Grocery',
         description:
-          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrators. ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
+          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrato₹ ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
         __v: 0,
         createdAt: '2021-10-30T16:30:26.854Z',
         updatedAt: '2021-11-09T18:27:44.545Z',
@@ -19268,7 +19268,7 @@ const orders = [
         quantity: 1,
         type: 'Grocery',
         description:
-          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrators. ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
+          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrato₹ ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
         __v: 0,
         createdAt: '2021-10-30T16:30:26.854Z',
         updatedAt: '2021-11-09T18:27:56.875Z',
@@ -21387,7 +21387,7 @@ const orders = [
         quantity: 1,
         type: 'Grocery',
         description:
-          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrators. ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
+          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrato₹ ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
         __v: 0,
         createdAt: '2021-11-25T11:47:03.815Z',
         updatedAt: '2021-11-25T11:47:03.815Z',
@@ -21409,7 +21409,7 @@ const orders = [
         quantity: 3,
         type: 'Grocery',
         description:
-          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrators. ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
+          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrato₹ ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
         __v: 0,
         createdAt: '2021-11-25T11:47:03.815Z',
         updatedAt: '2021-11-25T11:47:03.815Z',
@@ -21764,7 +21764,7 @@ const orders = [
         quantity: 1,
         type: 'Grocery',
         description:
-          'honey, sweet, viscous liquid food, dark golden in colour, produced in the honey sacs of various bees from the nectar of flowers. Flavour and colour are determined by the flowers from which the nectar is gathered. Some of the most commercially desirable honeys are produced from clover by the domestic honeybee.',
+          'honey, sweet, viscous liquid food, dark golden in colour, produced in the honey sacs of various bees from the nectar of flowe₹ Flavour and colour are determined by the flowers from which the nectar is gathered. Some of the most commercially desirable honeys are produced from clover by the domestic honeybee.',
         __v: 0,
         createdAt: '2021-11-25T11:47:03.773Z',
         updatedAt: '2021-11-25T11:47:03.773Z',
@@ -21964,7 +21964,7 @@ const orders = [
         quantity: 24,
         type: 'Grocery',
         description:
-          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrators. ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
+          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrato₹ ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
         __v: 0,
         createdAt: '2021-11-25T11:47:03.815Z',
         updatedAt: '2021-11-25T11:47:03.815Z',
@@ -22843,7 +22843,7 @@ const orders = [
         quantity: 1,
         type: 'Grocery',
         description:
-          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrators. ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
+          'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrato₹ ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
         __v: 0,
         createdAt: '2021-11-25T11:47:03.814Z',
         updatedAt: '2021-11-25T11:47:03.814Z',

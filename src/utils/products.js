@@ -1022,7 +1022,7 @@ const products = [
     children: 'Dry Fruits',
     createdAt: '2021-12-22T16:41:23.213Z',
     description:
-      'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrators. ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
+      'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrato₹ ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
     image: 'https://i.postimg.cc/rmbhB56C/Golden-Garden-Love-Plum-220g.jpg',
     originalPrice: 12,
     parent: 'Fruits & Vegetable',
@@ -1044,7 +1044,7 @@ const products = [
     children: 'Dry Fruits',
     createdAt: '2021-12-22T16:41:23.213Z',
     description:
-      'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrators. ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
+      'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrato₹ ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
     image:
       'https://i.postimg.cc/jjM3hGZ1/Golden-Garden-Blueberry-Plum-220g.jpg',
     originalPrice: 13,
@@ -1067,7 +1067,7 @@ const products = [
     children: 'Dry Fruits',
     createdAt: '2021-12-22T16:41:23.213Z',
     description:
-      'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrators. ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
+      'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrato₹ ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
     image: 'https://i.postimg.cc/Kz4qpJW8/Dry-Fig-Loose-Kg-1-Kg.jpg',
     originalPrice: 11,
     parent: 'Fruits & Vegetable',
@@ -1089,7 +1089,7 @@ const products = [
     children: 'Dry Fruits',
     createdAt: '2021-12-22T16:41:23.213Z',
     description:
-      'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrators. ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
+      'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrato₹ ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
     image: 'https://i.postimg.cc/25kXhzFv/Dates-Khejur-Lulu-Loose-Kg.jpg',
     originalPrice: 13,
     parent: 'Fruits & Vegetable',
@@ -1111,7 +1111,7 @@ const products = [
     children: 'Dry Fruits',
     createdAt: '2021-12-22T16:41:23.213Z',
     description:
-      'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrators. ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
+      'Dried fruit is fruit from which the majority of the original water content has been removed either naturally, through sun drying, or through the use of specialized dryers or dehydrato₹ ... Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears.',
     image:
       'https://i.postimg.cc/CxHQRZDS/Dates-Iranian-Maryam-Loose-Kg-1-Kg.jpg',
     originalPrice: 15,
@@ -5260,7 +5260,7 @@ const products = [
     children: 'Honey',
     createdAt: '2021-12-22T16:41:23.195Z',
     description:
-      'honey, sweet, viscous liquid food, dark golden in colour, produced in the honey sacs of various bees from the nectar of flowers. Flavour and colour are determined by the flowers from which the nectar is gathered. Some of the most commercially desirable honeys are produced from clover by the domestic honeybee.',
+      'honey, sweet, viscous liquid food, dark golden in colour, produced in the honey sacs of various bees from the nectar of flowe₹ Flavour and colour are determined by the flowers from which the nectar is gathered. Some of the most commercially desirable honeys are produced from clover by the domestic honeybee.',
     image:
       'https://i.postimg.cc/MGtChRvX/Dabur-Honey-1-Kg-Vatika-Tin-Can-Oil-Free.jpg',
     originalPrice: 20,
@@ -5283,7 +5283,7 @@ const products = [
     children: 'Honey',
     createdAt: '2021-12-22T16:41:23.195Z',
     description:
-      'honey, sweet, viscous liquid food, dark golden in colour, produced in the honey sacs of various bees from the nectar of flowers. Flavour and colour are determined by the flowers from which the nectar is gathered. Some of the most commercially desirable honeys are produced from clover by the domestic honeybee.',
+      'honey, sweet, viscous liquid food, dark golden in colour, produced in the honey sacs of various bees from the nectar of flowe₹ Flavour and colour are determined by the flowers from which the nectar is gathered. Some of the most commercially desirable honeys are produced from clover by the domestic honeybee.',
     image:
       'https://i.postimg.cc/6pVJfFKr/Aussiebee-Honey-312g-Glass-Bottle.jpg',
     originalPrice: 20,
@@ -5306,7 +5306,7 @@ const products = [
     children: 'Honey',
     createdAt: '2021-12-22T16:41:23.195Z',
     description:
-      'honey, sweet, viscous liquid food, dark golden in colour, produced in the honey sacs of various bees from the nectar of flowers. Flavour and colour are determined by the flowers from which the nectar is gathered. Some of the most commercially desirable honeys are produced from clover by the domestic honeybee.',
+      'honey, sweet, viscous liquid food, dark golden in colour, produced in the honey sacs of various bees from the nectar of flowe₹ Flavour and colour are determined by the flowers from which the nectar is gathered. Some of the most commercially desirable honeys are produced from clover by the domestic honeybee.',
     image: 'https://i.postimg.cc/y8CC9sM6/Aussiebee-Honey-375-Gm-Bottle.jpg',
     originalPrice: 16,
     parent: 'Honey',
@@ -5328,7 +5328,7 @@ const products = [
     children: 'Honey',
     createdAt: '2021-12-22T16:41:23.194Z',
     description:
-      'honey, sweet, viscous liquid food, dark golden in colour, produced in the honey sacs of various bees from the nectar of flowers. Flavour and colour are determined by the flowers from which the nectar is gathered. Some of the most commercially desirable honeys are produced from clover by the domestic honeybee.',
+      'honey, sweet, viscous liquid food, dark golden in colour, produced in the honey sacs of various bees from the nectar of flowe₹ Flavour and colour are determined by the flowers from which the nectar is gathered. Some of the most commercially desirable honeys are produced from clover by the domestic honeybee.',
     image: 'https://i.postimg.cc/mrbxXVZ0/Aussiebee-Honey-400g-Bottle.jpg',
     originalPrice: 19,
     parent: 'Honey',
@@ -5350,7 +5350,7 @@ const products = [
     children: 'Honey',
     createdAt: '2021-12-22T16:41:23.194Z',
     description:
-      'honey, sweet, viscous liquid food, dark golden in colour, produced in the honey sacs of various bees from the nectar of flowers. Flavour and colour are determined by the flowers from which the nectar is gathered. Some of the most commercially desirable honeys are produced from clover by the domestic honeybee.',
+      'honey, sweet, viscous liquid food, dark golden in colour, produced in the honey sacs of various bees from the nectar of flowe₹ Flavour and colour are determined by the flowers from which the nectar is gathered. Some of the most commercially desirable honeys are produced from clover by the domestic honeybee.',
     image: 'https://i.postimg.cc/BQKGXXww/Alshifa-Natural-Honey-250-Gm.jpg',
     originalPrice: 17,
     parent: 'Honey',

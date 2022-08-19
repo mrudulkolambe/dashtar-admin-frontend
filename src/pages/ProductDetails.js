@@ -47,7 +47,7 @@ const ProductDetails = () => {
                 <h2 className="text-heading text-lg md:text-xl lg:text-2xl font-semibold font-serif dark:text-gray-400">
                   {data.title}
                 </h2>
-                <p className="uppercase font-serif font-medium text-gray-500 dark:text-gray-400 text-sm">
+                <p className="hidden uppercase font-serif font-medium text-gray-500 dark:text-gray-400 text-sm">
                   SKU :{' '}
                   <span className="font-bold text-gray-500 dark:text-gray-500">
                     {data._id !== undefined && data._id.substring(18, 24)}
@@ -56,10 +56,10 @@ const ProductDetails = () => {
               </div>
               <div className="font-serif product-price font-bold dark:text-gray-400">
                 <span className="inline-block text-2xl">
-                  ${data.price}
+                ₹{data.price}
                   {data.discount >= 1 && (
                     <del className="text-gray-400 dark:text-gray-500 text-lg pl-2">
-                      ${data.originalPrice}
+                      ₹{data.originalPrice}
                     </del>
                   )}
                 </span>

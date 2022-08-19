@@ -37,7 +37,7 @@ const CustomerOrderTable = ({ orders }) => {
             <TableCell>
               {' '}
               <span className="text-sm font-semibold">
-                ${Math.round(order.total)}.00
+                ₹ {Math.round(order.total)}.00
               </span>{' '}
             </TableCell>
             <TableCell className="text-center">

@@ -53,7 +53,7 @@ const ProductDrawer = ({ id }) => {
               </div>
             </div>
 
-            <div className="grid grid-cols-6 gap-3 md:gap-5 xl:gap-6 lg:gap-6 mb-6">
+            <div className="hidden grid-cols-6 gap-3 md:gap-5 xl:gap-6 lg:gap-6 mb-6">
               <LabelArea label="Product SKU" />
               <div className="col-span-8 sm:col-span-4">
                 <InputArea
@@ -156,7 +156,7 @@ const ProductDrawer = ({ id }) => {
               </div>
             </div>
 
-            <div className="grid grid-cols-6 gap-3 md:gap-5 xl:gap-6 lg:gap-6 mb-6">
+            <div className="hidden grid-cols-6 gap-3 md:gap-5 xl:gap-6 lg:gap-6 mb-6">
               <LabelArea label="Product Type" />
               <div className="col-span-8 sm:col-span-4">
                 <SelectOption

@@ -37,7 +37,7 @@ Font.register({
 
 const styles = StyleSheet.create({
   page: {
-    marginRight: 10,
+    marginright: 10,
     marginBottom: 20,
     marginLeft: 10,
     paddingTop: 30,

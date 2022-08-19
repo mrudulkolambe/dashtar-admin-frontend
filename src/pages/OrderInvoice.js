@@ -143,7 +143,7 @@ const OrderInvoice = () => {
                   Discount
                 </span>
                 <span className="text-sm text-gray-500 dark:text-gray-400 font-semibold font-serif block">
-                  ${Math.round(data.discount)}.00
+                ₹ {Math.round(data.discount)}.00
                 </span>
               </div>
               <div className="flex flex-col sm:flex-wrap">
@@ -151,7 +151,7 @@ const OrderInvoice = () => {
                   Total Amount
                 </span>
                 <span className="text-xl font-serif font-bold text-red-500 dark:text-green-500 block">
-                  ${Math.round(data.total)}.00
+                ₹ {Math.round(data.total)}.00
                 </span>
               </div>
             </div>

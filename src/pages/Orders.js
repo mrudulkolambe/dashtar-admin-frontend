@@ -53,14 +53,14 @@ const Orders = () => {
               <Input
                 ref={orderRef}
                 type="search"
-                className="border h-12 text-sm focus:outline-none block w-full bg-gray-100 border-transparent focus:bg-white"
+                className="hidden border h-12 text-sm focus:outline-none w-full bg-gray-100 border-transparent focus:bg-white"
                 placeholder="Search by phone"
               />
             </div>
             <div>
               <Select
                 onChange={(e) => setStatus(e.target.value)}
-                className="border h-12 text-sm focus:outline-none block w-full bg-gray-100 border-transparent focus:bg-white"
+                className="hidden border h-12 text-sm focus:outline-none w-full bg-gray-100 border-transparent focus:bg-white"
               >
                 <option value="Status" defaultValue hidden>
                   Status
@@ -74,7 +74,7 @@ const Orders = () => {
             <div>
               <Select
                 onChange={(e) => setTime(e.target.value)}
-                className="border h-12 text-sm focus:outline-none block w-full bg-gray-100 border-transparent focus:bg-white"
+                className="border h-12 text-sm focus:outline-none hidden w-full bg-gray-100 border-transparent focus:bg-white"
               >
                 <option value="Order limits" defaultValue hidden>
                   Order limits

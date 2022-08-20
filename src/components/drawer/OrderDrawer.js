@@ -15,15 +15,13 @@ import ChildrenCategory from '../category/ChildrenCategory';
 import ParentCategory from '../category/ParentCategory';
 import useProductSubmit from '../../hooks/useProductSubmit';
 
-const ProductDrawer = ({ id }) => {
+const OrderDrawer = ({ id }) => {
   const {
     register,
     watch,
     handleSubmit,
     onSubmit,
     errors,
-    imageUrl,
-    setImageUrl,
     tag,
     setTag,
   } = useProductSubmit(id);
@@ -33,13 +31,13 @@ const ProductDrawer = ({ id }) => {
       <div className="w-full relative p-6 border-b border-gray-100 bg-gray-50 dark:border-gray-700 dark:bg-gray-800 dark:text-gray-300">
         {id ? (
           <Title
-            title="Update Product"
-            description="Updated your product and necessary information from here"
+            title="Update Order"
+            description="Updated your order and necessary information from here"
           />
         ) : (
           <Title
-            title="Add Product"
-            description="Add your product and necessary information from here"
+            title="Add Order"
+            description="Add your order and necessary information from here"
           />
         )}
       </div>
@@ -49,7 +47,7 @@ const ProductDrawer = ({ id }) => {
             <div className="grid grid-cols-6 gap-3 md:gap-5 xl:gap-6 lg:gap-6 mb-6">
               <LabelArea label="Product Image" />
               <div className="col-span-8 sm:col-span-4">
-                <Uploader imageUrl={imageUrl} setImageUrl={setImageUrl} />
+                {/* <Uploader imageUrl={imageUrl} setImageUrl={setImageUrl} /> */}
               </div>
             </div>
 
@@ -73,7 +71,6 @@ const ProductDrawer = ({ id }) => {
               <div className="col-span-8 sm:col-span-4">
                 <InputArea
                   register={register}
-                  required="true"
                   label="Product Title/Name"
                   name="title"
                   type="text"
@@ -125,6 +122,9 @@ const ProductDrawer = ({ id }) => {
                 <Select
                   className="border h-12 text-sm focus:outline-none block w-full bg-gray-100 dark:bg-white border-transparent focus:bg-white"
                   name="parent"
+                  {...register('parent', {
+                    required: 'Product parent category is required!',
+                  })}
                 >
                   <option value="" defaultValue hidden>
                     Select parent category
@@ -141,6 +141,9 @@ const ProductDrawer = ({ id }) => {
                 <Select
                   className="border h-12 text-sm focus:outline-none block w-full bg-gray-100 dark:bg-white border-transparent focus:bg-white"
                   name="children"
+                  {...register('children', {
+                    required: 'Product children category is required!',
+                  })}
                 >
                   <option value="" defaultValue hidden>
                     Select child category
@@ -299,4 +302,4 @@ const ProductDrawer = ({ id }) => {
   );
 };
 
-export default React.memo(ProductDrawer);
+export default React.memo(OrderDrawer);

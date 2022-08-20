@@ -11,6 +11,7 @@ import {
   Card,
   CardBody,
   Pagination,
+  Button,
 } from '@windmill/react-ui';
 import { IoCloudDownloadOutline } from 'react-icons/io5';
 
@@ -25,9 +26,14 @@ import PageTitle from '../components/Typography/PageTitle';
 import axios from 'axios';
 import AdminServices from '../services/AdminServices';
 import { AdminContext } from '../context/AdminContext';
+import OrderDrawer from '../components/drawer/OrderDrawer';
+import { SidebarContext } from '../context/SidebarContext';
+import MainDrawer from '../components/drawer/MainDrawer';
+import { FiPlus } from 'react-icons/fi';
 
 const Orders = () => {
   const { data, loading } = useAsync(OrderServices.getAllOrders);
+  const { toggleDrawer } = useContext(SidebarContext);
   const {
     orderRef,
     setStatus,
@@ -39,10 +45,12 @@ const Orders = () => {
     serviceData,
     handleSubmitOrder,
   } = useFilter(data);
-
   return (
     <>
       <PageTitle>Orders</PageTitle>
+      {/* <MainDrawer>
+        <OrderDrawer />
+      </MainDrawer> */}
       <Card className="min-w-0 shadow-xs overflow-hidden bg-white dark:bg-gray-800 mb-5">
         <CardBody>
           <form
@@ -85,15 +93,21 @@ const Orders = () => {
                 <option value="30">Last 30 days orders</option>
               </Select>
             </div>
-            <div>
-              <CSVDownloader data={orderData} filename={'orders'}>
+            <div className='flex'>
+              {/* <CSVDownloader data={orderData} filename={'orders'}>
                 <button className="flex items-center justify-center text-sm leading-5 h-12 w-full text-center transition-colors duration-150 font-medium focus:outline-none px-6 py-2 rounded-md text-white bg-green-500 border border-transparent active:bg-green-600 hover:bg-green-600 focus:ring focus:ring-purple-300">
-                  Download all Orders
-                  <span className="ml-2 text-base">
+                  Downloaed all Orders
+                  <span classNam="ml-2 text-base">
                     <IoCloudDownloadOutline />
                   </span>
                 </button>
-              </CSVDownloader>
+              </CSVDownloader> */}
+              <Button onClick={toggleDrawer} className="hidden w-full md:w-56 lg:w-56 xl:w-56 rounded-md h-12">
+                <span className="mr-3">
+                  <FiPlus />
+                </span>
+                Add Order
+              </Button>
             </div>
           </form>
         </CardBody>

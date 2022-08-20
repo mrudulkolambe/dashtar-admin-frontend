@@ -7,9 +7,9 @@ const SelectOption = ({ register, name, label}) => {
       <Select
         className="border h-12 text-sm focus:outline-none block w-full bg-gray-100 dark:bg-white border-transparent focus:bg-white"
         name={name}
-        {...register(`${name}`, {
-          required: `${label} is required!`,
-        })}
+        // {...register(`${name}`, {
+        //   required: `${label} is required!`,
+        // })}
       >
         <option value="" defaultValue hidden>Select type</option>
         <option value="Grocery">Grocery</option>

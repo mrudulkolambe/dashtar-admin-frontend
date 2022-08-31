@@ -84,7 +84,7 @@ const Header = () => {
             </li>
 
             {/* <!-- Notifications menu --> */}
-            <li className="relative inline-block text-left" ref={nRef}>
+            <li className="relative hidden text-left" ref={nRef}>
               <button
                 className="relative align-middle rounded-md focus:outline-none"
                 onClick={handleNotificationOpen}
